@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Kubuki_Laba1</string>
+    <string name="rules">Поиграй с телефоном в кубики! Кто набрал 100 очков - тот выиграл!</string>
+    <string name="your_points">Твой результат:</string>
+    <string name="robot_points_text">Результат компьютера:</string>
+    <string name="cubes_text">Выпало:</string>
+    <string name="second_cube_points">-</string>
+    <string name="first_cube_points">-</string>
+    <string name="and">и</string>
+    <string name="robot_points">0</string>
+    <string name="your_points_number">0</string>
+    <string name="btn_text">Сделать ход</string>
+    <string name="title_activity_win">WinActivity</string>
+    <string name="win_text">Вы победили! :)</string>
+    <string name="lose_text">Вы проиграли! :(</string>
+    <string name="button_new_game">Играть</string>
+    <string name="button_new">Играть</string>
+    <string name="title_activity_lose">LoseActivity</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+</resources>

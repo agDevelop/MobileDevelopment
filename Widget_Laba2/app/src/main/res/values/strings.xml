@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Widget_Laba2</string>
+    <string name="widget_name">Widget_Laba2</string>
+    <string name="widget_text">Текст</string>
+    <string name="editText">Введите текст</string>
+    <string name="buttonSave">Сохранить</string>
+    <string name="radioRed">Красный</string>]
+    <string name="radioYellow">Желтый</string>
+    <string name="radioGreen">Зеленый</string>
+    <string name="radioViolet">Фиолетовый</string>
+    <string name="radioOrange">Оранжевый</string>
+    <string name="radioLightBlue">Голубой</string>
+    <string name="radioDarkBlue">Синий</string>
+</resources>
